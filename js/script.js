@@ -18,8 +18,8 @@ window.onload = function () {
 
   // process
   const volume = (4 / 3) * Math.PI * Math.pow(radius, 3)
-  const radiusOfSphere = '<ul>\n<li>a base = ' + radius
+  const dimension = '<ul>\n<li>radius = ' + radius
   // output
-  document.getElementById('radius-of-shpere').innerHTML = radiusOfSphere
+  document.getElementById('dimension').innerHTML = dimension
   document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' mm²'
 }
