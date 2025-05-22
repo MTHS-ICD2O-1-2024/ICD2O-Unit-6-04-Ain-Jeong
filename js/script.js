@@ -7,7 +7,7 @@
 'use strict'
 
 window.onload = function () {
-  // this calculates volume of a pyramid
+  // this calculates volume of a sphere
 
   const params = new URLSearchParams(document.location.search)
 
