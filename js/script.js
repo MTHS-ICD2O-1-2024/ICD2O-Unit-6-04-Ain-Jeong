@@ -21,5 +21,5 @@ window.onload = function () {
   const radiusOfSphere = '<ul>\n<li>a base = ' + radius
   // output
   document.getElementById('radius-of-shpere').innerHTML = radiusOfSphere
-  document.getElementById('volume').innerHTML = 'Volume is: ' + volume + ' mm²'
+  document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' mm²'
 }
