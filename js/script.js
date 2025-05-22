@@ -18,8 +18,8 @@ window.onload = function () {
 
   // process
   const volume = (4 / 3) * Math.PI * Math.pow(radius, 3)
-  const dimension = '<ul>\n<li>radius = ' + radius
+  const dimension = '<ul>\n<li>radius = ' + radius + ' mm'
   // output
   document.getElementById('dimension').innerHTML = dimension
-  document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' mm²'
+  document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' mm³'
 }
