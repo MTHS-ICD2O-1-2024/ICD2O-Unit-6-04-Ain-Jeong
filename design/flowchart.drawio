@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="365" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="683" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -43,7 +43,7 @@
                 <mxCell id="15" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8" target="9">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="VOlume of a Sphere, with a Query String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="16" value="Volume of a Sphere, with a Query String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="180" y="58" width="240" height="30" as="geometry"/>
                 </mxCell>
             </root>
